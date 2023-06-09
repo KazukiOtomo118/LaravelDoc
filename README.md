@@ -29,5 +29,5 @@ php artisan serve
 
 ## テストの実行
 ```
-./vendor/bin/phpunit
+php artisan test
 ```
