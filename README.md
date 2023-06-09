@@ -24,10 +24,10 @@ php artisan migrate
 
 ## サーバ起動コマンド
 ```
-$ php artisan serve
+php artisan serve
 ```
 
 ## テストの実行
 ```
-$ ./vendor/bin/phpunit
+./vendor/bin/phpunit
 ```
